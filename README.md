@@ -1,1 +1,1 @@
-# cpfnw-bi-portal
+# bi-portal
